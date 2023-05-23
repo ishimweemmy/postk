@@ -30,3 +30,4 @@ uritemplate==4.1.1
 urllib3==1.26.15
 uuid==1.30
 django-cors-headers==4.0.0
+mysqlclient==2.1.1
