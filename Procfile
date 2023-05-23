@@ -1,1 +1,1 @@
-web: gunicorn oreDigital.wsgi --log-file -
+web: gunicorn postwhisper.wsgi --log-file -
